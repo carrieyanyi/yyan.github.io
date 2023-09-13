@@ -3,5 +3,3 @@ title: "Brief Introduction"
 ---
 
 I'm Yi Yan (Carrie). I am studying the Master of Data Science program at UBC.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
